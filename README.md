@@ -7,6 +7,7 @@ Requests: HTTP for Humans™
 [![codecov.io](https://codecov.io/github/requests/requests/coverage.svg?branch=master)](https://codecov.io/github/requests/requests)
 [![image](https://img.shields.io/github/contributors/requests/requests.svg)](https://github.com/requests/requests/graphs/contributors)
 [![image](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/kennethreitz)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzt2%2Frequests.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fzt2%2Frequests?ref=badge_shield)
 
 Requests is the only *Non-GMO* HTTP library for Python, safe for human
 consumption.
@@ -105,3 +106,7 @@ How to Contribute
     published. :) Make sure to add yourself to
     [AUTHORS](https://github.com/requests/requests/blob/master/AUTHORS.rst).
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzt2%2Frequests.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fzt2%2Frequests?ref=badge_large)
